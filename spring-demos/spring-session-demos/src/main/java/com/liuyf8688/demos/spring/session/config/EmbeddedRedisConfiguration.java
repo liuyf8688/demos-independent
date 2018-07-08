@@ -5,14 +5,13 @@ import java.io.IOException;
 import javax.annotation.PreDestroy;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
 import org.springframework.session.data.redis.config.annotation.web.http.EnableRedisHttpSession;
 
 import redis.clients.jedis.Protocol;
 import redis.embedded.RedisServer;
 
-@Configuration
+//@Configuration
 @EnableRedisHttpSession
 public class EmbeddedRedisConfiguration {
 	

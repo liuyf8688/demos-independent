@@ -1,4 +1,4 @@
-package com.liuyf8688.demos.spring.session.controller;
+package com.liuyf8688.demos.spring.session.security.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.liuyf8688.demos.spring.session.config;
+package com.liuyf8688.demos.spring.session.security.config;
 
 import org.springframework.boot.autoconfigure.security.SecurityProperties;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.liuyf8688.demos.spring.session;
+package com.liuyf8688.demos.spring.session.security;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
